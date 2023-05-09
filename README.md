@@ -1,15 +1,11 @@
-### Hi there 
-<h4> Olá, eu sou Laís Damasceno!</h4> 🌱
+### 
+<h4> Olá, eu sou Laís Damasceno!</h4>
 
  <h5> Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h5>  
-
-<h4></h4>   
-           
+<h4></h4>              
 <h6> 💫 #desenvolvimentoweb, #QA, #TestedeSoftware </h6>
    
 ## 
-
-
 Este é o meu perfil no Github, onde compartilho projetos que desenvolvi e colaborações em projetos de código aberto. Aqui, você poderá encontrar alguns de meus trabalhos mais recentes e acompanhar meu progresso como desenvolvedora. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo caso queira colaborar em algum projeto ou trocar ideias sobre programação. Vamos juntos contribuir para a comunidade de desenvolvimento de software.
 
   
