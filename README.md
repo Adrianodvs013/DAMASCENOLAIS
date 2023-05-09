@@ -1,5 +1,13 @@
 ### Hi there 👋
+<h3> Olá, eu sou Laís Damasceno!</h3> 🌱
 
+ <h3> Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
+
+<h4></h4>   
+           
+<h6> 💫 #desenvolvimentoweb, #QA, #TestedeSoftware </h6>
+   
+## 
 <!--
 **Damascenolais/damascenolais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
